@@ -1,5 +1,13 @@
 # 🔐 Sistema de Reconhecimento Facial com Arduino e LCD  
 
+##💡 Grupo
+
+- NICOLAS BONI(R551965)
+- ENZO SARTORELLI(RM94618)
+- EDUARDO NISTAL(RM94524)
+- KAUE PASTORI(RM98501)
+- RODRIGO VIANA(551057)
+
 ## 📌 Objetivo
 Este projeto implementa um **sistema de controle de acesso** que combina **Visão Computacional** com **Arduino**.  
 
@@ -22,7 +30,7 @@ Este projeto implementa um **sistema de controle de acesso** que combina **Visã
 - Bibliotecas: IDE Arduino Biblioteca do LCD: LiquidCrystal_I2C (arduino)
 
 
-### 🔌 Conexões do Arduino LED verde LED vermelho LCD I2C
+## 🔌 Conexões do Arduino LED verde LED vermelho LCD I2C
 
 - LED verde
 - LED vermelho
