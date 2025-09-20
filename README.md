@@ -16,9 +16,14 @@ Este projeto implementa um **sistema de controle de acesso** que combina **Visã
 
 ## ⚙️ Dependências
 
-### 🐍 Python (versão 3.10 recomendada)
-- [cmake](https://cmake.org/download/)  
-- [Visual Studio Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)  
-- Bibliotecas:
-  ```bash
-  pip install opencv-python face-recognition pyserial
+### 🐍 Python (3.10)
+- [cmake]
+- [Visual Studio Build Tools] 
+- Bibliotecas: IDE Arduino Biblioteca do LCD: LiquidCrystal_I2C (arduino)
+
+
+### 🔌 Conexões do Arduino LED verde LED vermelho LCD I2C
+
+- LED verde
+- LED vermelho
+- LCD I2C
